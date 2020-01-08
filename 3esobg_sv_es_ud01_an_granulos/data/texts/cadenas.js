@@ -1,0 +1,18 @@
+cadenas = {
+	titulo: "Orgánulos celulares y sus funciones ",
+	repetir: "Repetir",
+	corregir: "Corregir",
+	text_mito: "Tienen forma ovalada y poseen una doble membrana que delimita un espacio interior o matriz. \n\nEn ellas se realiza la respiración celular, que necesita oxígeno y proporciona energía a la célula para su  funcionamiento.",
+	text_golgi: "Está compuesto por pilas de sacos membranosos aplanados, rodeados de pequeñas bolsas o vesículas.\n\nEn estas vesículas se empaquetan las sustancias fabricadas en el retículo y, con frecuencia, vierten su contenido al medio extracelular. Es decir, su principal función es la secreción.",
+	text_liso: "Se trata de pequeñas bolsas o vesículas membranosas en cuyo interior se transforman las sustancias complejas en otras más simples. \n\nSon como el aparato digestivo de la célula.",
+	text_cito: "Es un conjunto de filamentos que se distribuyen, formando una red, por todo el citoplasma. \n\nConstituyen el “esqueleto” de la célula e intervienen en sus movimientos.",
+	text_centri: "Son dos cilindros huecos cuyas paredes están formadas por filamentos. \n\nDirigen el movimiento del citoesqueleto.",
+	text_retic: "Es un conjunto de sacos y canales membranosos, comunicados entre sí, que se extiende por todo el citoplasma celular. En el retículo se fabrican diversas sustancias, como proteínas o lípidos. Existen\ndos tipos:\n\n– Rugoso. Con ribosomas adosados a la cara externa de sus  membranas.\n\n– Liso. Sin ribosomas adosados.",
+	text_ribo: "Son pequeñas estructuras no membranosas que se encuentran tanto libres en el citoplasma como adosadas a las membranas del retículo  endoplasmático.\n\nSe encargan de fabricar proteínas.",
+	text_vacu: "Son pequeñas bolsas o vesículas membranosas que contienen agua con sustancias disueltas. \n\nAlmacenan productos de reserva o de desecho.",
+	ocultar: "Ocultar",
+	mostrar: "Mostrar",
+	entrada: "Haz clic en cada uno de los nombres de las orgánulos y aprende sobre sus funciones.",
+	empezar: "Empezar",
+	ribosoma: "Ribosomas",
+};
